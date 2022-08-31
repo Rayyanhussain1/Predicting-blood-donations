@@ -1,0 +1,1 @@
+I haven't attached the dataset but you can download it from Kaggle or Google, and if you are using a Jupyter Notebook then there is no need to download any sort of dataset you can simply access it by writing 'datasets/transfusion.data'.
